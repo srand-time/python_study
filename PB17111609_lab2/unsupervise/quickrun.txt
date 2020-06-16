@@ -1,0 +1,6 @@
+命令行下运行
+
+F:
+cd 作业2020\人工智能作业\PB17111609_lab2\unsupervise\src
+python kmeans.py
+
